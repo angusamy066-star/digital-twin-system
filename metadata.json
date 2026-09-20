@@ -1,0 +1,6 @@
+{
+  "name": "AeroTwin",
+  "description": "Web-based engine health and mission reliability platform with interactive 3D digital twin, real-time telemetry streaming, physics-informed prognostics, and RUL estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
